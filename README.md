@@ -40,3 +40,4 @@ Please refer to the following link for Market-specific growth opportunities in g
 	- Serverless (KNative, OpenFaaS/ Apache OpenWhisk)
 	- AutoML & HPO
 	- Edge Deployment, such as on Mobile (TFX - TensorRT, TFLite | EdgeX)
+	- Hybrid Processing (Local Edge Processing + Centralized Cloud Processing)
