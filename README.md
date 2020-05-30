@@ -15,7 +15,7 @@ Here goes the list of some of the **widely adopted Real-world AI/ML system Imple
  - ECG Sleep Apnea Detection
  - Sequential Treatment Administering
 
-P.S.: [Prominent Computer Vision Technique for above applications: Image Segmentation]
+P.S.: Prominent Computer Vision Technique for above applications: [Image Segmentation](/Image_Segmentation)
 
 ## Medical Healtcare AI Key Solution Blocks/ Factors:
 - [Medical 3D Imaging DEVICES](https://github.com/DeepHiveMind/Medical-Healtcare-AI/blob/master/README_3D_Medical_Imaging.md)
