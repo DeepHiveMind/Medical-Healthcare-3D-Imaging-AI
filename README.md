@@ -34,8 +34,8 @@ Please refer to the following link for Market-specific growth opportunities in g
 ## Real-world Medical 3D Imaging AI System Implementation Technology Debt [Productionization/Industralization/Implementation]
 
 - AI/ML Model Productionaization/Industrialization (Hiddent Technical Debt in ML System)
-			- MLOps (Kubeflow)
-			- Containerization (Docker) & CaaS (K8S)
-			- Serverless (KNative, OpenFaaS/ Apache OpenWhisk)
-			- AutoML & HPO
-			- Edge Deployment, such as on Mobile (Mobile, TFLite)
+	- MLOps (Kubeflow)
+	- Containerization (Docker) & CaaS (K8S)
+	- Serverless (KNative, OpenFaaS/ Apache OpenWhisk)
+	- AutoML & HPO
+	- Edge Deployment, such as on Mobile (Mobile, TFLite)
