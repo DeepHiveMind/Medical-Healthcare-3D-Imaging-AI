@@ -32,6 +32,7 @@ Please refer to the following link for Market-specific growth opportunities in g
 [Global 3D Medical Imaging Market 2019-25](https://www.researchandmarkets.com/research/xpnd7g/worldwide_3d?w=4)
 
 ## Real-world Medical 3D Imaging AI System Implementation Technology Debt [Productionization/Industralization/Implementation]
+
 - AI/ML Model Productionaization/Industrialization (Hiddent Technical Debt in ML System)
 			- MLOps (Kubeflow)
 			- Containerization (Docker) & CaaS (K8S)
