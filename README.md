@@ -34,13 +34,13 @@ Please refer to the following link for Market-specific growth opportunities in g
 
 ## Real-world Medical 3D Imaging AI System Implementation Technology Debt [Productionization/Industralization/Implementation]
 
-<p align="center">**"Only a SMALL FRACTION of REAL-WORLD ML SYSTEMs is composed of the ML CODE"**</p> 
+<p align="center">"Only a SMALL FRACTION of REAL-WORLD ML SYSTEMs is composed of the ML CODE"**</p> 
 
 <p align="center">
 <img alt="Google NIPS 2015" src="https://image.slidesharecdn.com/webinarmllib2xproductionizingmlmodelsfinal-170309214854/95/apache-spark-mllib-2x-how-to-productionize-your-machine-learning-models-25-638.jpg?cb=1489096240">
 </p>
 
-[HIDDEN TECH DEBT IN ML SYSTEM- NIPS/GOOGLE 2015](https://image.slidesharecdn.com/webinarmllib2xproductionizingmlmodelsfinal-170309214854/95/apache-spark-mllib-2x-how-to-productionize-your-machine-learning-models-25-638.jpg?cb=1489096240)
+Reference: [HIDDEN TECH DEBT IN ML SYSTEM- NIPS/GOOGLE 2015](https://image.slidesharecdn.com/webinarmllib2xproductionizingmlmodelsfinal-170309214854/95/apache-spark-mllib-2x-how-to-productionize-your-machine-learning-models-25-638.jpg?cb=1489096240)
 
 - AI/ML Model Productionaization/Industrialization (Hiddent Technical Debt in ML System)
 	- MLOps - Iterative Experimentation (Kubeflow)
