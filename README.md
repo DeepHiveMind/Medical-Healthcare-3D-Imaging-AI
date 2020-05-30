@@ -39,4 +39,4 @@ Please refer to the following link for Market-specific growth opportunities in g
 	- Containerization (Docker) & CaaS (K8S)
 	- Serverless (KNative, OpenFaaS/ Apache OpenWhisk)
 	- AutoML & HPO
-	- Edge Deployment, such as on Mobile (Mobile, TFLite)
+	- Edge Deployment, such as on Mobile (TFX - TensorRT, TFLite | EdgeX)
