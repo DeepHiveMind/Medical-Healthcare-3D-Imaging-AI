@@ -19,7 +19,7 @@ Here goes the list of some of the **widely adopted Real-world AI/ML system Imple
 - [Medical 3D Imaging DEVICES](https://github.com/DeepHiveMind/Medical-Healtcare-AI/blob/master/README_3D_Medical_Imaging.md)
    - Medical 3D Imaging (hardware players) VENDORS 
    - Medical 3D Imaging SOFTWARES
-- [Medical Imaging Stoarge & Exchnage protocol / Standard (DICOM)](https://github.com/DeepHiveMind/Medical-Healtcare-AI/blob/master/README_3D_Medical_Imaging.md)
+- [Medical Imaging Stoarge & Exchnage protocol / STANDARD (DICOM)](https://github.com/DeepHiveMind/Medical-Healtcare-AI/blob/master/README_3D_Medical_Imaging.md)
 - [Medical 3D Imaging DATASET formats](https://github.com/DeepHiveMind/Medical-Healtcare-AI/blob/master/README_3D_Medical_Imaging.md)
 - [Medical 3D Imaging DATASET Handling/ PRE-PROCESSING PYTHON Libraries](https://github.com/DeepHiveMind/Medical-Healtcare-AI/blob/master/README_3D_Medical_Imaging.md)
 - Data Annotation Techniques
