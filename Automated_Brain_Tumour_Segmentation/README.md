@@ -3,7 +3,8 @@
 Brain tumor segmentation seeks to separate healthy tissue from tumorous regions such as the advancing tumor, necrotic core and surrounding edema. This is an essential step in diagnosis and treatment planning, both of which need to take place quickly in the case of a malignancy in order to maximize the likelihood of successful treatment. Due to the slow and tedious nature of manual segmentation, there is a high demand for computer algorithms that can do this quickly and accurately.
 
 ## Table of Contents
-1. [Dataset](#datase)
+1. [Dataset](#Dataset)
+1. [XYZ](#xyz)
 2. [MRI Background](#mri-background)
     * [MRI Pre-Processing](#mri-pre-processing)
     * [Pulse Sequences](#pulse-sequences)
@@ -23,6 +24,7 @@ All MRI data was provided by the [Brain Tumor MRI Dataset: 2015 MICCAI BraTS Cha
 <img alt="Example of tumor segmentation overlay on T2" src="images/segmented_slice.png" width='400'>  
 <sub><b>Figure 1: </b> Ground truth segmentation overlay on a T2 weighted scan. </sub>   
 
+## XYZ
 
 ## MRI Background
 
