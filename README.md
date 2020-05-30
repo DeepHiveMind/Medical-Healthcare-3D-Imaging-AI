@@ -35,9 +35,18 @@ Please refer to the following link for Market-specific growth opportunities in g
 ## Real-world Medical 3D Imaging AI System Implementation Technology Debt [Productionization/Industralization/Implementation]
 
 - AI/ML Model Productionaization/Industrialization (Hiddent Technical Debt in ML System)
-	- MLOps (Kubeflow)
+	- MLOps - Iterative Experimentation (Kubeflow)
+	- Model Enrichment
+		- Transfer Learning & HPO
+		- AutoML 
+	- AI Inference Service Routing 
+		- Canary Deployment 
+		- Blue Green Deployment
+		- A/B
+	- AI-as-a-Service 
+		- Microservice Management (API G/W, Service Discovery, Service Registry, Service Config etc)
+		- RESTful API/ gRPC API
 	- Containerization (Docker) & CaaS (K8S)
 	- Serverless (KNative, OpenFaaS/ Apache OpenWhisk)
-	- AutoML & HPO
 	- Edge Deployment, such as on Mobile (TFX - TensorRT, TFLite | EdgeX)
 	- Hybrid Processing (Local Edge Processing + Centralized Cloud Processing)
