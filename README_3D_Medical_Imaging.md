@@ -119,8 +119,8 @@ Python libraries to handle Infrared images
 
 Magnetic Resonance Imaging (MRI) is the most common diagnostic tool brain tumors due primarily to it's noninvasive nature and ability to image diverse tissue types and physiological processes. MRI uses a magnetic gradient and radio frequency pulses to take repetitive axial slices of the brain and construct a 3-dimensional representation. Each brain scan 155 slices, with each pixel representing a 1mm<sup>3</sup> voxel.  
 <p align="center">
-<img alt="Basic MRI Workflow" src="https://github.com/naldeborgh7575/brain_segmentation/raw/master/images/MRI_workflow.png" width=450>
-<img alt="3D rendering produced by T2 MRI scan" src="https://github.com/naldeborgh7575/brain_segmentation/raw/master/images/t29_143.gif" width=250>  </p>
+<img alt="Basic MRI Workflow" src="https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/blob/master/Automated_Brain_Tumour_Segmentation/images/MRI_workflow.png" width=450>
+<img alt="3D rendering produced by T2 MRI scan" src="https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/blob/master/Automated_Brain_Tumour_Segmentation/images/t29_143.gif" width=250>  </p>
 
 
 #### CT-Scan Background
@@ -129,12 +129,12 @@ A computerized tomography scan (CT or CAT scan) uses computers and rotating X-ra
 <img alt="Basic MRI Workflow" src="https://caraccidentsinorlando.com/wp-content/uploads/2017/12/ct-vs-mri.jpg" width=450></p>
 
 
-#### MRI/CT-Scan/X-rays pre-processing ([code](https://github.com/naldeborgh7575/brain_segmentation/blob/master/code/brain_pipeline.py))
+#### MRI/CT-Scan/X-rays pre-processing ([code](https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/blob/master/Automated_Brain_Tumour_Segmentation/code/brain_pipeline.py))
 
 One of the challenges in working with MRI/CT-Scan/X-rays data is dealing with the artifacts produced either by inhomogeneity in the magnetic field or small movements made by the patient during scan time. Oftentimes a bias will be present across the resulting scans, which can effect the segmentation results particularly in the setting of computer-based models.
 
 <p align="center">
-<img alt="Bias correction before and after" src="https://github.com/naldeborgh7575/brain_segmentation/raw/master/images/n4_correction.png" width=200>  </p>
+<img alt="Bias correction before and after" src="https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/blob/master/Automated_Brain_Tumour_Segmentation/images/n4_correction.png" width=200>  </p>
 
 
 #### Infrared Background
