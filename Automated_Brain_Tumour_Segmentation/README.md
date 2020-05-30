@@ -73,7 +73,7 @@ High-grade malignant brain tumors are generally associated with a short life exp
 
 Convolutional Neural Networks(CNNs) are a powerful tool in the field of image recognition. They were inspired in the late 1960s by the elucidation of how the [mammalian visual cortex works](https://en.wikipedia.org/wiki/Receptive_field): many networks neurons sensitive to a given 'receptive field' tiled over the entire visual field<sup>[2](#references)</sup>. This aspect of CNNs contributes to their high flexibility and spatial invariance, making them ideal candidates for semantic segmentatiaon of images with high disparity in locations of objects of interest. CNNs are a powerful tool in machine learning that are well suited for the challenging problem tackled in this project.
 
-### Model Architecture ([code](https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/edit/master/Automated_Brain_Tumour_Segmentation/blob/master/code/Segmentation_Models.py))
+### Model Architecture ([code](https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/edit/master/Automated_Brain_Tumour_Segmentation/code/Segmentation_Models.py))
 
 I use a four-layer Convolutional Neural Network (CNN) model that, besides [n4ITK](#mri-pre-processing) bias correction, requires minimal [pre-processing](https://github.com/naldeborgh7575/brain_segmentation/blob/master/brain_pipeline.py). The model can distinguish between and predict healthy tissue, actively enhancing tumor and non-advancing tumor regions (Figure 7).  The local invariant nature of CNNs allows for abstraction of token features for classification without relying on large-scale spatial information that is inconsistent in the case of tumor location.
 
@@ -87,7 +87,7 @@ I created the model using Keras and ran it on an Amazon AWS GPU-optimized EC2 in
 
 The model was trained on randomly selected 33x33 patches of MRI images to classify the center pixel. Each input has 4 channels, one for each imaging sequence, so the net can learn what relative pixel intensities are hallmarks of each given class. The model is trained on approximately 50,000 patches for six epochs. The model generally begins to overfit after six epochs, and the validation accuracy on balanced classes reaches approximately 55 percent. [Future directions](#future-directions) will include more training phases and updated methods for patch selection.
 
-### Patch Selection ([code](https://github.com/naldeborgh7575/brain_segmentation/blob/master/code/patch_library.py))
+### Patch Selection ([code](https://github.com/DeepHiveMind/Medical-Healthcare-3D-Imaging-AI/edit/master/Automated_Brain_Tumour_Segmentation/code/patch_library.py))
 The purpose of training the model on patches (Figure 8) is to exploit the fact that a class of any given voxel is highly dependent on the class of it's surrounding voxels. Patches give the net access to information about the pixel's local environment, which influences the final prediction of the patch.
 
 <img alt="Examples of T1c patches used as input." src="images/patches.png" width=800>  
