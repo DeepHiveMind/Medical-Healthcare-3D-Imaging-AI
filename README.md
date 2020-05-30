@@ -2,7 +2,9 @@
 Medical Healtcare Imaging AI Taxonomy :smiley: 
 *| Robotic Surgery | Automated Brain Tumour Segmentation | Skin Cancer Lesion Detection & Segmentation (Melonama Recognition) |  Lung Cancer detection | MEDICAL DEVICES (MRI/CT/XRay/PET Scan)| Medical 3D Imaging | SIMULATIONS |  IMAGE SEGMENTATION TECHNIQUES | Deep Reinforcement Learning | ROBOTICS| * 
 
-## Medical Healthcare AI Application (widely adopted in Medical field)		
+## Medical Healthcare AI Application 
+
+Here goes the list of some of the **widely adopted Real-world AI/ML system Implementations** in Medical field
  - Radiology 
 	- Automated Brain Tumour Segmentation 
 	- Skin Cancer Lesion Detection & Segmentation (Melonama Recognition)
