@@ -1,14 +1,15 @@
-**Medical Healtcare AI | Robotic Surgery | Automated Brain Tumour Segmentation | Skin Cancer Lesion Detection & Segmentation (Melonama Recognition) |  Lung Cancer detection (Chest CT Scan) | IMAGE SEGMENTATION TECHNIQUES**
+# Medical Healtcare AI
 
+Medical Healtcare AI Taxonomy :smiley: 
+**| Robotic Surgery | Automated Brain Tumour Segmentation | Skin Cancer Lesion Detection & Segmentation (Melonama Recognition) |  Lung Cancer detection (Chest CT Scan) 
 **IMAGE SEGMENTATION TECHNIQUES**
-
 **MEDICAL DEVICES, ROBOTICS, IMAGING AND VISION, SIMULATIONS**
 
 
 			
-Sectorization: Medical Healtcare AI Computer Vision
+## Sectorization: Medical Healtcare AI Computer Vision
 
-Medical Healthcare AI Application (widely adopted in Medical field):			
+## Medical Healthcare AI Application (widely adopted in Medical field)		
  - Radiology 
 	- Automated Brain Tumour Segmentation 
 	- Skin Cancer Lesion Detection & Segmentation (Melonama Recognition)
@@ -18,10 +19,10 @@ Medical Healthcare AI Application (widely adopted in Medical field):
  - Sequential Treatment Administering
  
  
-Sectorization Growth View: Market-specific growth opportunities in global 3D medical imaging market
+## Sectorization Growth View: Market-specific growth opportunities in global 3D medical imaging market
 ![Global 3D Medical Imaging Market 2019-25](https://www.researchandmarkets.com/research/xpnd7g/worldwide_3d?w=4)
 
-Key Technology: 
+## Key Technology 
 - Medical 3D Imaging DEVICES
    - Medical 3D Imaging (hardware players) VENDORS 
    - Medical 3D Imaging SOFTWARES
