@@ -38,15 +38,23 @@ Please refer to the following link for Market-specific growth opportunities in g
 	- MLOps - Iterative Experimentation (Kubeflow)
 	- Model Enrichment
 		- Transfer Learning & HPO
-		- AutoML 
+		- AutoML (AutoKeras) 
 	- AI Inference Service Routing 
 		- Canary Deployment 
 		- Blue Green Deployment
+		- Multi Armed Bandit Deployment
 		- A/B
 	- AI-as-a-Service 
 		- Microservice Management (API G/W, Service Discovery, Service Registry, Service Config etc)
 		- RESTful API/ gRPC API
+	- AI Trust
+		- Feature Bank (Feature Set)
+		- Model Interpertability (LIME, DeepShap)
+	- AI Continous Monitoring System (AWS Sagemaker Monitor)
+		- Data Drift
+		- Concept Drift
 	- Containerization (Docker) & CaaS (K8S)
 	- Serverless (KNative, OpenFaaS/ Apache OpenWhisk)
 	- Edge Deployment, such as on Mobile (TFX - TensorRT, TFLite | EdgeX)
 	- Hybrid Processing (Local Edge Processing + Centralized Cloud Processing)
+	- Mobile & Web App (PWA)
