@@ -35,7 +35,7 @@ Please refer to the following link for Market-specific growth opportunities in g
 ## Real-world Medical 3D Imaging AI System Implementation Technology Debt [Productionization/Industralization/Implementation]
 
 <p align="center">**"Only a SMALL FRACTION of REAL-WORLD ML SYSTEMs is composed of the ML CODE"**</p> 
-								_Courtsey Google NIPS 2015
+<p align="center">_Courtsey Google NIPS 2015</p>
 
 <p align="center">
 <img alt="Google NIPS 2015" src="https://image.slidesharecdn.com/4brookewenigjulesdamji-180612221342/95/a-tale-of-three-deep-learning-frameworks-tensorflow-keras-and-deep-learning-pipelines-with-brooke-wenig-and-jules-damji-5-638.jpg?cb=1528841699">
