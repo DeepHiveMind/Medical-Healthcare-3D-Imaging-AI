@@ -37,7 +37,7 @@ Please refer to the following link for Market-specific growth opportunities in g
 <p align="center">"Only a SMALL FRACTION of REAL-WORLD ML SYSTEMs is composed of the ML CODE"**</p> 
 
 <p align="center">
-<img alt="Google NIPS 2015" src="https://image.slidesharecdn.com/webinarmllib2xproductionizingmlmodelsfinal-170309214854/95/apache-spark-mllib-2x-how-to-productionize-your-machine-learning-models-25-638.jpg?cb=1489096240">
+<img alt="Google NIPS 2015" src="https://image.slidesharecdn.com/4brookewenigjulesdamji-180612221342/95/a-tale-of-three-deep-learning-frameworks-tensorflow-keras-and-deep-learning-pipelines-with-brooke-wenig-and-jules-damji-5-638.jpg?cb=1528841699">
 </p>
 
 Reference: [HIDDEN TECH DEBT IN ML SYSTEM- NIPS/GOOGLE 2015](https://image.slidesharecdn.com/webinarmllib2xproductionizingmlmodelsfinal-170309214854/95/apache-spark-mllib-2x-how-to-productionize-your-machine-learning-models-25-638.jpg?cb=1489096240)
