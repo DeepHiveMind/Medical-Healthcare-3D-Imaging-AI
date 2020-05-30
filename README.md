@@ -48,14 +48,15 @@ Reference: [HIDDEN TECH DEBT IN ML SYSTEM- NIPS/GOOGLE 2015](https://papers.nips
 	- Model Enrichment
 		- Transfer Learning & HPO
 		- AutoML (AutoKeras) 
-	- AI Inference Service Routing 
+- AI-as-a-Service 
+	- AI Serving Library (TF-Serving, ONNX Runtime, Seldon Core)
+	- RESTful API/ gRPC API
+	- Microservice Management (API G/W, Service Discovery, Service Registry, Service Config etc)
+- AI Inference Service Routing 
 		- Canary Deployment 
 		- Blue Green Deployment
 		- Multi Armed Bandit Deployment
 		- A/B
-	- AI-as-a-Service 
-		- Microservice Management (API G/W, Service Discovery, Service Registry, Service Config etc)
-		- RESTful API/ gRPC API
 	- AI Trust
 		- Feature Bank (Feature Set)
 		- Model Interpertability (LIME, DeepShap)
