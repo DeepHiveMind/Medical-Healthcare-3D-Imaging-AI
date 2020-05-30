@@ -15,12 +15,12 @@ Here goes the list of some of the **widely adopted Real-world AI/ML system Imple
  - Sequential Treatment Administering
 
 ## Medical Healtcare AI Key Solution Blocks/ Factors:
-- [Medical 3D Imaging DEVICES](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning)
+- [Medical 3D Imaging DEVICES](https://github.com/DeepHiveMind/Medical-Healtcare-AI/blob/master/README_3D_Medical_Imaging.md)
    - Medical 3D Imaging (hardware players) VENDORS 
    - Medical 3D Imaging SOFTWARES
-- [Medical Imaging Stoarge & Exchnage protocol / Standard (DICOM)](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning)
-- [Medical 3D Imaging DATASET formats](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning)
-- [Medical 3D Imaging DATASET Handling/ PRE-PROCESSING PYTHON Libraries](https://github.com/Deep-Mind-Hive/3DImaging-Medical_Lidar_Seismic_Satellite_3DScanning)
+- [Medical Imaging Stoarge & Exchnage protocol / Standard (DICOM)](https://github.com/DeepHiveMind/Medical-Healtcare-AI/blob/master/README_3D_Medical_Imaging.md)
+- [Medical 3D Imaging DATASET formats](https://github.com/DeepHiveMind/Medical-Healtcare-AI/blob/master/README_3D_Medical_Imaging.md)
+- [Medical 3D Imaging DATASET Handling/ PRE-PROCESSING PYTHON Libraries](https://github.com/DeepHiveMind/Medical-Healtcare-AI/blob/master/README_3D_Medical_Imaging.md)
 - Data Annotation Techniques
 - IMAGE SEGMENTATION Computer Vision Techniques & Evolution
 - Sequential Treatment Administering (Reinforcement Learning)
