@@ -7,7 +7,7 @@ Medical Healtcare Imaging AI Taxonomy :smiley:
 
 Here goes the list of some of the **widely adopted Real-world AI/ML system Implementations** in Medical field
  - Radiology 
-	- Automated Brain Tumour Segmentation 
+	- [Automated Brain Tumour Segmentation](/Automated_Brain_Tumour_Segmentation)
 	- Skin Cancer Lesion Detection & Segmentation (Melonama Recognition)
 	- Lung Cancer 
  - Segmenting Nuclei in Microscopy Images
