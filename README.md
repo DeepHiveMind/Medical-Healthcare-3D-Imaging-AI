@@ -18,6 +18,7 @@ Here goes the list of some of the **widely adopted Real-world AI/ML system Imple
 P.S.: Prominent Computer Vision Technique for above applications: [Image Segmentation](/Image_Segmentation)
 
 ## Medical Healtcare AI Key Solution Blocks/ Factors:
+- [Medical 3D Imaging Overview]
 - [Medical 3D Imaging DEVICES](https://github.com/DeepHiveMind/Medical-Healtcare-AI/blob/master/README_3D_Medical_Imaging.md)
    - Medical 3D Imaging (hardware players) VENDORS 
    - Medical 3D Imaging SOFTWARES
@@ -32,7 +33,9 @@ P.S.: Prominent Computer Vision Technique for above applications: [Image Segment
  
 ## Sectorization Growth View
 Please refer to the following link for Market-specific growth opportunities in global 3D medical imaging market
-[Global 3D Medical Imaging Market 2019-25](https://www.researchandmarkets.com/research/xpnd7g/worldwide_3d?w=4)
+
+-  
+- [Global 3D Medical Imaging Market 2019-25](https://www.researchandmarkets.com/research/xpnd7g/worldwide_3d?w=4)
 
 ## Real-world Medical 3D Imaging AI System Implementation Technology Debt [Productionization/Industralization/Implementation]
 
