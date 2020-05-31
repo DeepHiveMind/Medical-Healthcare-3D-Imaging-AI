@@ -10,7 +10,7 @@ Robotic Surgery | Automated Brain Tumour Segmentation | Skin Cancer Lesion Detec
 Here goes the list of some of the **widely adopted Real-world AI/ML system Implementations** in Medical field
  - Radiology 
 	- [Automated Brain Tumour Segmentation](/Automated_Brain_Tumour_Segmentation)
-	- Skin Cancer Lesion Detection & Segmentation (Melonama Recognition)
+	- [Skin Cancer Lesion Detection & Segmentation (Melonama Recognition)](/Skin_Cancer_Lesion_Segmentation_%26_Detection)
 	- Lung Cancer
 	- Segmenting Nuclei in Microscopy Images
  - 'Robotic Surgery' (Semi-automated robotic surgery with HITL) 
