@@ -9,7 +9,7 @@ patient’s health. In particular, skin imaging is a field where these new metho
 
 ![Melanoma vs Benign image](./images/work/dataset.jpg)
 
-**"Fine-Tuned Smart" Solution Approach Abstraction:-->"**
+#### "Fine-Tuned Smart" Solution Approach Abstraction:-->
 "Fine-tuned Smart Solution approach" focuses on solving the problem of automatic skin lesion detection, particularly on melanoma detection, by "
 **semantic segmentation** and followed by  **classification (powered by Transfer Learning)**" from **dermoscopic images (from ISIC)** using a deep learning based approach. 
  - For the 1st part of the solution approach (semantic segmentation for an **accurate extraction of the lesion region**) -
@@ -23,19 +23,20 @@ patient’s health. In particular, skin imaging is a field where these new metho
 	- It very effectively deals with the general challenge of **Minimal Ground Truth** (i.e., challenge of **lack of large amount of labelled dataset**) by avoid groud up training of Detection Model.
 	- The model is general enough to be extended to **multi-class** skin lesion classification. 	 
 
+![Overall scheme](./images/work/scheme.png)
 
-**"Classical" Solution Approach Abstraction:-->"**
+#### "Classical" Solution Approach Abstraction:-->
  - "Classical Solution approach" focuses on solving the problem of automatic skin lesion detection by straightway subjecting the entire image to **classification alone** model.
 
-**"The Comparative View" of Smart Vis-a-Vis Classical Solution Approaches:-->"**
+####"The Comparative View" of Smart Vis-a-Vis Classical Solution Approaches:-->
  - "ROC Curve" is drawn as well for a comparative evaluation of classification alone (using the entire image) against a 
 combination of the two approaches (segmentation followed by classification) in order to assess which of them achieves
  better classification results.
  - Experimental results are encouraging: on the ISIC Archive dataset, the Smart Solution approach achieves a **sensitivity** value of **78.66%**, which is significantly higher than the many of the state of the art (SOTA Models) on that dataset.
  
-![Overall scheme](./images/work/scheme.png)
 
-**Dataset:**
+
+#### Dataset:
  - [ISIC Archive datase](https://isic-archive.com/) 
 
 **Taxonomy/ Keywords**: `Medical Image Analysis`, `Deep Learning`, `Medical Decision Support Systems`,  
