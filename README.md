@@ -1,9 +1,9 @@
 # Medical Healthcare 3D Imaging AI
 Medical Healtcare Imaging AI Taxonomy :smiley: 
 
-*Medical 3D Imaging | Medical 3D SIMULATIONS (Brain Simulation Platform)|MEDICAL DEVICES (MRI/CT/XRay/PET Scan) |Medical Imaging Stoarge & Exchnage protocol |   
-Robotic Surgery | Automated Brain Tumour Segmentation | Skin Cancer Lesion Detection & Segmentation (Melonama Recognition) |  Lung Cancer detection | 
-3D IMAGE SEGMENTATION TECHNIQUES | Deep Reinforcement Learning | ROBOTICS|* 
+*Medical 3D Imaging | Medical 3D SIMULATIONS (Brain Simulation Platform)|MEDICAL DEVICES (MRI/CT/XRay/PET Scan) |Medical Imaging Stoarge & Exchnage protocol..  
+Robotic Surgery | Automated Brain Tumour Segmentation | Skin Cancer Lesion Detection & Segmentation (Melonama Recognition) |  Lung Cancer detection..
+3D IMAGE SEGMENTATION TECHNIQUES | Deep Reinforcement Learning | ROBOTICS..* 
 
 ## Medical Healthcare AI Application 
 
