@@ -1,0 +1,7 @@
+Model evaluation of ISIC_1
+------------------------------
+Accuracy: 0.953515625
+Dice coefficient score: 0.967753926215
+Jaccard similarity coefficient score: 0.953515625
+Sensitivity (recall) score: 0.998006735858
+Specificity: 0.990138332604
