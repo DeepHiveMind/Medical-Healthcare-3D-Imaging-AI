@@ -50,10 +50,12 @@ Reference: [HIDDEN TECH DEBT IN ML SYSTEM- NIPS/GOOGLE 2015](https://papers.nips
 	- Model Enrichment
 		- Transfer Learning & HPO
 		- AutoML (AutoKeras) 
-- AI-as-a-Service 
+- Scalable & Secured "AI-as-a-Service" 
 	- AI Serving Library (TF-Serving, ONNX Runtime, Seldon Core)
 	- RESTful API/ gRPC API
-	- Microservice Management (API G/W, Service Discovery, Service Registry, Service Config etc)
+	- Microservice Management (API Gateway, Service Discovery, Service Registry, Service Config etc)
+	- Service Mesh (Istio)
+	- Containerization (Docker) & CaaS (K8S)	- 
 - AI Inference Service Routing 
 		- Canary Deployment 
 		- Blue Green Deployment
@@ -65,7 +67,6 @@ Reference: [HIDDEN TECH DEBT IN ML SYSTEM- NIPS/GOOGLE 2015](https://papers.nips
 	- AI Continous Monitoring System (AWS Sagemaker Monitor)
 		- Data Drift
 		- Concept Drift
-	- Containerization (Docker) & CaaS (K8S)
 	- Serverless (KNative, OpenFaaS/ Apache OpenWhisk)
 	- Edge Deployment, such as on Mobile (TFX - TensorRT, TFLite | EdgeX)
 	- Hybrid Processing (Local Edge Processing + Centralized Cloud Processing)
