@@ -1,7 +1,9 @@
 # Medical Healthcare 3D Imaging AI
 Medical Healtcare Imaging AI Taxonomy :smiley: 
 
-*Robotic Surgery | Automated Brain Tumour Segmentation | Skin Cancer Lesion Detection & Segmentation (Melonama Recognition) |  Lung Cancer detection | MEDICAL DEVICES (MRI/CT/XRay/PET Scan)| Medical 3D Imaging | SIMULATIONS |  IMAGE SEGMENTATION TECHNIQUES | Deep Reinforcement Learning | ROBOTICS* 
+*Medical 3D Imaging | Medical 3D SIMULATIONS (Brain Simulation Platform)|MEDICAL DEVICES (MRI/CT/XRay/PET Scan) |Medical Imaging Stoarge & Exchnage protocol |   
+Robotic Surgery | Automated Brain Tumour Segmentation | Skin Cancer Lesion Detection & Segmentation (Melonama Recognition) |  Lung Cancer detection | 
+3D IMAGE SEGMENTATION TECHNIQUES | Deep Reinforcement Learning | ROBOTICS|* 
 
 ## Medical Healthcare AI Application 
 
@@ -18,7 +20,7 @@ Here goes the list of some of the **widely adopted Real-world AI/ML system Imple
 P.S.: Prominent Computer Vision Technique for above applications: [Image Segmentation](/Image_Segmentation)
 
 ## Medical Healtcare AI Key Solution Blocks/ Factors:
-- [Medical 3D Imaging Overview]
+- [Medical 3D Imaging Overview](https://github.com/DeepHiveMind/Medical-Healtcare-AI/blob/master/README_3D_Medical_Imaging.md)
 - [Medical 3D Imaging DEVICES](https://github.com/DeepHiveMind/Medical-Healtcare-AI/blob/master/README_3D_Medical_Imaging.md)
    - Medical 3D Imaging (hardware players) VENDORS 
    - Medical 3D Imaging SOFTWARES
@@ -26,16 +28,18 @@ P.S.: Prominent Computer Vision Technique for above applications: [Image Segment
 - [Medical 3D Imaging DATASET formats](https://github.com/DeepHiveMind/Medical-Healtcare-AI/blob/master/README_3D_Medical_Imaging.md)
 - [Medical 3D Imaging DATASET Handling/ PRE-PROCESSING PYTHON Libraries](https://github.com/DeepHiveMind/Medical-Healtcare-AI/blob/master/README_3D_Medical_Imaging.md)
 - Data Annotation Techniques
-- IMAGE SEGMENTATION Computer Vision Techniques & Evolution
+- 3D IMAGE SEGMENTATION Computer Vision Techniques & Evolution
 - Sequential Treatment Administering (Reinforcement Learning)
 - AI/ML Model Productionaization/Industrialization (Hiddent Technical Debt in ML System)
 
  
-## Sectorization Growth View
+## Sectorization Growth (global 3D medical imaging market) View
 Please refer to the following link for Market-specific growth opportunities in global 3D medical imaging market
 
--  
+- [Global 3D Medical Imaging Market 2018-25](https://www.medgadget.com/2019/07/3d-medical-imaging-market-growing-at-a-cagr-of-9-8-and-expected-to-reach-12-6-billion-by-2025-exclusive-report-by-infinium-global-research.html) 
 - [Global 3D Medical Imaging Market 2019-25](https://www.researchandmarkets.com/research/xpnd7g/worldwide_3d?w=4)
+
+Global 3D medical imaging market was valued over USD 6.5 Billion in 2018 and is projected to be worth nearly USD 12.6 Billion expanding at a CAGR of 9.8% from 2019 to 2025.
 
 ## Real-world Medical 3D Imaging AI System Implementation Technology Debt [Productionization/Industralization/Implementation]
 
