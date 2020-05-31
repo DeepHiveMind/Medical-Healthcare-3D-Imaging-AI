@@ -82,10 +82,8 @@ ranked and awards granted based only on the Jaccard index.
 - Create PWA using ReactJS
 - Publish IoS App (using [CoreML](https://developer.apple.com/documentation/coreml) ) & Android App (using [TensorFlow Lite](https://www.tensorflow.org/lite) )   
 	
-	-Use Core ML to integrate machine learning models into IoS app. Core ML provides a unified representation for all models. Your app uses Core ML APIs and user data to make predictions, and to train or fine-tune models, all on the user’s device.
+	- Use Core ML to integrate machine learning models into IoS app. Core ML provides a unified representation for all models. Your app uses Core ML APIs and user data to make predictions, and to train or fine-tune models, all on the user’s device.
 	- Use TensorFlow Lite to deploy machine learning models on mobile and IoT devices and also for Quantization of the model.
-	
-	<p align="center"><img center='Mobile & Edge deployment' src='https://www.tensorflow.org/site-assets/images/marketing/learn/lite-convert.svg' width=200 aling=center></p>
 	
 - Improve model with additional data
 - MLOPS (Enable Iterative Experimentation)
