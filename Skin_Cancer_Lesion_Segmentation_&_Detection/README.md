@@ -78,7 +78,13 @@ ranked and awards granted based only on the Jaccard index.
 ![classification-results](./images/work/roc.png)
 
 ## The Next & The Future: What More TO BE DONE?
-- MLOPS
+
+- Create PWA using ReactJS
+- Publish Ios App (using CoreML)
+- Create Android App (using TensorLite)
+- Improve model with additional data
+- MLOPS (Enable Iterative Experimentation)
+
 
 ## Special Citation 
 - [13th IASTED International Conference](https://www.iasted.org/conferences/pastinfo-852.html)
