@@ -1,6 +1,12 @@
 # Deep Learning On Medical 3D Imaging
 
 ## Medical 3D Imaging overview
+
+ - **3D medical imaging** is a revolutionary **optical imaging** technology that provides an **enriched image** of the **interior body for medical analysis** by utilizing 3D imaging modalities. ... 3D medical imaging provides enhanced images of blood vessels and better images of bones.
+- **3D medical imaging processing** refers to handling images by using the computer. This processing includes many types of techniques and operations such as image gaining, storage, presentation, and communication.
+- **3D medical imaging segmentation Software** is the task of segmenting medical objects of interest from 3D medical imaging.
+
+
 For a better comprehension of Medical 3D Imaging ecosystem, we need to get a handle of following aspects:
 
 - Medical 3D Imaging DEVICES
@@ -20,6 +26,7 @@ Mediacal Images comes from various Medical 3D Imaging Devices; & are generally, 
  -   Xray Scans
  -   PET Scan (positron emission topography)
  -   PET/CT or PET/MRI Scans
+ -   Microscopy Images 
  -   InfraRed Images
  -   HD Video Camera Recordeers for Medical Pre/Intra/Post 'Operative Procedures'
 
@@ -36,6 +43,11 @@ Mediacal Images comes from various Medical 3D Imaging Devices; & are generally, 
 - 3D Scanning Software
 - 3D Modelling Software
 
+Example - A popular 3D Imaging Software,Used by large community of Doctors & Scientific Researchers, for medical imaging and 3D visualization applications:
+[3D-DOCTOR](http://www.ablesw.com/) by ABLE Software
+      - VECTOR-BASED 3D IMAGING, MODELING AND MEASUREMENT (AND RASTER TO VECTOR CONVERSION) SOFTWARE for MRI, CT, PET, microscopy,3D-Doctor Screen Shot scientific, and industrial 3D imaging applications.
+      - 3D-DOCTOR creates 3D surface models and volume rendering from 2D cross-section images in real time on Doctor's PC.
+      - Supports both grayscale and color images stored in DICOM, TIFF, Interfile, GIF, JPEG, PNG, BMP, PGM, RAW or other image file formats. 
 
 <p align="center">**3D Medical Imaging (Vantage View)**</p>
 <p aling="center">
@@ -143,7 +155,13 @@ In infrared photography, the film or image sensor used is sensitive to infrared 
 <p align="center">
 <img alt="InfraRed image" src="http://www.thermomed.org/images/rost-regulation_470.jpg" ></p>
 
+## Sectorization Growth (global 3D medical imaging market) View
+Please refer to the following link for Market-specific growth opportunities in global 3D medical imaging market
 
+- [Global 3D Medical Imaging Market 2018-25](https://www.medgadget.com/2019/07/3d-medical-imaging-market-growing-at-a-cagr-of-9-8-and-expected-to-reach-12-6-billion-by-2025-exclusive-report-by-infinium-global-research.html) 
+- [Global 3D Medical Imaging Market 2019-25](https://www.researchandmarkets.com/research/xpnd7g/worldwide_3d?w=4)
+
+Global 3D medical imaging market was valued over USD 6.5 Billion in 2018 and is projected to be worth nearly USD 12.6 Billion expanding at a CAGR of 9.8% from 2019 to 2025.
 
 ## Medical Imaging 'Annotated Dataset' Sources:
 
