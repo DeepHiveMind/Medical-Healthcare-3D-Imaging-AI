@@ -18,10 +18,10 @@ patient’s health. In particular, skin imaging is a field where these new metho
      - The proposed solution is built around the **VGG-Net ConvNet architecture** and 
 	 - uses the **Transfer learning paradigm** (to deal with the general challenge of**Minimal Ground Truth** by avoid groud up training of Detection Model.).
 
-**P.S.** 
-	- This solution approach performs way better, optimized and offers better result. The experimental results of the segmentation evaluations demonstrate that the proposed method can outperform other state-of-the-art models.
-	- It very effectively deals with the general challenge of **Minimal Ground Truth** (i.e., challenge of **lack of large amount of labelled dataset**) by avoid groud up training of Detection Model.
-	- The model is general enough to be extended to **multi-class** skin lesion classification. 	 
+P.S.
+	- *This solution approach performs way better, optimized and offers better result. The experimental results of the segmentation evaluations demonstrate that the proposed method can outperform other state-of-the-art models.   
+	- It very effectively deals with the general challenge of **Minimal Ground Truth** (i.e., challenge of **lack of large amount of labelled dataset**) by avoid groud up training of Detection Model.  
+	- The model is general enough to be extended to **multi-class** skin lesion classification.*	 
 
 ![Overall scheme](./images/work/scheme.png)
 
