@@ -13,7 +13,7 @@ Here goes the list of some of the **widely adopted Real-world AI/ML system Imple
 	- [Skin Cancer Lesion Detection & Segmentation (Melonama Recognition)](/Skin_Cancer_Lesion_Segmentation_%26_Detection)
 	- Lung Cancer
 	- Colon Cancer
- - **'Robotic Surgery'** (Semi-automated robotic surgery with HITL)
+ - **'Robotic Surgery'** [Semi-automated Robotic surgery with HITL](https://github.com/SUYEgit/Surgery-Robot-Detection-Segmentation)
  - **ECG Sleep Apnea Detection**
  - **Sequential Treatment Administering** (Sequential Treatment decision using Reinforcement Learning)
  - **Microsocpy Medical Healthcare** (Segmenting Nuclei in Microscopy Images)
