@@ -21,8 +21,7 @@ patient’s health. In particular, skin imaging is a field where these new metho
 ![Melanoma vs Benign image](./images/work/dataset.jpg)
 
 **Taxonomy/ Keywords** :smile: : `Medical Image Analysis`, `Deep Learning`, `Medical Decision Support Systems`,  
-`U-Net Convolutional Neural Networks`, `Transfer Learning`,`VGG-Net Convolutional Neural Networks`, `Melanoma`, `Dermoscopy`, `Skin Lesions`,
-`Skin Cancer`.
+`U-Net Convolutional Neural Networks`, `Transfer Learning`,`VGG-Net Convolutional Neural Networks`, `Melanoma`, `Dermoscopy`, `Skin Lesions`, `Skin Cancer`, `CoreML`, `TensorflowLite`, `MaskRCNN'.
 
 
 ### "Fine-Tuned Smart" Solution Approach Abstraction:-->
@@ -56,11 +55,20 @@ combination of the two approaches (segmentation followed by classification) in o
 
 
 ### Dataset:
- - [Melonama Project ISIC Archive datase](https://isic-archive.com/) 
- 
+
  {ISIC : International Skin Imaging Collaboration}
+ - [Melonama Project ISIC Archive datase](https://isic-archive.com/)
 
+The datasets (carrying Both malignant and benign lesions) to use are:
+ - ISIC_UDA-2_1
+ - ISIC_UDA-1_1
+ - ISIC_MSK-2_1
+ - ISIC_MSK-1_2
+ - ISIC_MSK-1_1
 
+| Benign Images| Malignant Images | 
+| :--: |:--: |
+|1208 | 849|
 
 ## Results
 
