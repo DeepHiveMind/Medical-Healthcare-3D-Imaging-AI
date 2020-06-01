@@ -51,7 +51,9 @@ combination of the two approaches (segmentation followed by classification) in o
 
 
 ### Dataset:
- - [ISIC Archive datase](https://isic-archive.com/) 
+ - [Melonama Project ISIC Archive datase](https://isic-archive.com/) 
+ 
+ {ISIC : International Skin Imaging Collaboration}
 
 **Taxonomy/ Keywords**: `Medical Image Analysis`, `Deep Learning`, `Medical Decision Support Systems`,  
 `U-Net Convolutional Neural Networks`, `Transfer Learning`,`VGG-Net Convolutional Neural Networks`, `Melanoma`, `Dermoscopy`, `Skin Lesions`,
@@ -64,13 +66,15 @@ combination of the two approaches (segmentation followed by classification) in o
 
 | Participant     | Rank  | Accuracy | Dice   | Jaccard    | Sensitivity | Specificity |
 |-----------------|-------|----------|--------|------------|-------------|-------------|
-| **Ours**           | **(1st)*** | 0.9176   | 0.8689 | **0.9176** | **0.9301**  | 0.9544      |
+| **Our Model**   | **(1st)*** | 0.9176   | 0.8689 | **0.9176** | **0.9301**  | 0.9544      |
 | Urko Sanchez    | 1st   | 0.953    | 0.910  | 0.843      | 0.910       | 0.965       |
 | Lequan Yu       | 2nd   | 0.949    | 0.897  | 0.829      | 0.911       | 0.957       |
-| Mahmudur Rahman | 3rd   | 0.952    | 0.895  | 0.822      | 0.880       | 0.969       |
+
 
 (*) Participants from the [ISBI 2016 Challenge](https://challenge.kitware.com/#challenge/560d7856cad3a57cfde481ba) were 
 ranked and awards granted based only on the Jaccard index. 
+
+{ISBI: The International Symposium on Biomedical Imaging}
 
 ### U-Net segmentation results
 
