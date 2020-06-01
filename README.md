@@ -1,6 +1,14 @@
 # Overview
-[Medical Healthcare 3D Imaging AI](#Medical_Healthcare_3D_Imaging_AI)
-[Real-world Medical 3D Imaging AI System Implementation Technology Debt](#Real-world-Medical-3D-Imaging-AI-System-Implementation-Technology-Debt)
+- [Medical Healthcare 3D Imaging AI](#Medical_Healthcare_3D_Imaging_AI)
+
+- [Medical Healthcare AI Application](#Medical-Healthcare-AI-Application)
+- [Sectorization Growth View](#Sectorization_Growth-View)
+
+
+- [Real-world Medical 3D Imaging AI System Implementation Technology Debt](#Real-world-Medical-3D-Imaging-AI-System-Implementation-Technology-Debt)
+
+- 
+
 
 # Medical Healthcare 3D Imaging AI
 Medical Healtcare Imaging AI Taxonomy :smiley: 
@@ -44,7 +52,8 @@ P.S.: Prominent Computer Vision Technique for above applications:
 - AI/ML Model Productionaization/Industrialization (Hiddent Technical Debt in ML System)
 
  
-## Sectorization Growth (global 3D medical imaging market) View
+## Sectorization Growth View
+**Global 3D medical imaging market growth**
 Please refer to the following link for Market-specific growth opportunities in global 3D medical imaging market
 
 - [Global 3D Medical Imaging Market 2018-25](https://www.medgadget.com/2019/07/3d-medical-imaging-market-growing-at-a-cagr-of-9-8-and-expected-to-reach-12-6-billion-by-2025-exclusive-report-by-infinium-global-research.html) 
