@@ -8,16 +8,19 @@ Robotic Surgery | Automated Brain Tumour Segmentation | Skin Cancer Lesion Detec
 ## Medical Healthcare AI Application 
 
 Here goes the list of some of the **widely adopted Real-world AI/ML system Implementations** in Medical field
- - Radiology 
+ - **Radiology** 
 	- [Automated Brain Tumour Segmentation](/Automated_Brain_Tumour_Segmentation)
 	- [Skin Cancer Lesion Detection & Segmentation (Melonama Recognition)](/Skin_Cancer_Lesion_Segmentation_%26_Detection)
 	- Lung Cancer
-	- Segmenting Nuclei in Microscopy Images
- - 'Robotic Surgery' (Semi-automated robotic surgery with HITL) 
- - ECG Sleep Apnea Detection
- - Sequential Treatment Administering
+	- Colon Cancer
+ - **'Robotic Surgery'** (Semi-automated robotic surgery with HITL)
+ - **ECG Sleep Apnea Detection**
+ - **Sequential Treatment Administering** (Sequential Treatment decision using Reinforcement Learning)
+ - **Microsocpy Healthcare** (Segmenting Nuclei in Microscopy Images)
 
-P.S.: Prominent Computer Vision Technique for above applications: [Image Segmentation](/Image_Segmentation)
+P.S.: Prominent Computer Vision Technique for above applications: 
+ - [Object Detection & Segmentation](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/edit/master/Object_Detection_&_Segmentation/)
+ 
 
 ## Medical Healtcare AI Key Solution Blocks/ Factors:
 - [Medical 3D Imaging Overview](https://github.com/DeepHiveMind/Medical-Healtcare-AI/blob/master/README_3D_Medical_Imaging.md)
