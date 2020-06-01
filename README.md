@@ -1,6 +1,5 @@
 # Overview
 [Medical Healthcare 3D Imaging AI](#Medical_Healthcare_3D_Imaging_AI)
-
 [Real-world Medical 3D Imaging AI System Implementation Technology Debt](#Real-world-Medical-3D-Imaging-AI-System-Implementation-Technology-Debt)
 
 # Medical Healthcare 3D Imaging AI
