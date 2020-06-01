@@ -15,9 +15,12 @@ Here goes the list of some of the **widely adopted Real-world AI/ML system Imple
 	- Colon Cancer
  - **Robotic Surgery** 
  	- [Semi-automated Robotic surgery with HITL](https://github.com/SUYEgit/Surgery-Robot-Detection-Segmentation)
+	- [Smart Endoscopy Procedure ](http://2020.biomedicalimaging.org/challenges)
  - **ECG Sleep Apnea Detection**
  - **Sequential Treatment Administering** (Sequential Treatment decision using Reinforcement Learning)
  - **Microsocpy Medical Healthcare** (Segmenting Nuclei in Microscopy Images)
+ 	- ![Neucleus Segmentation](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/tree/master/Object_Detection_%26_Segmentation/samples/nucleus)
+	- ![Multi-organ Nuclei Segmentation And Classification](http://2020.biomedicalimaging.org/challenges)
 
 P.S.: Prominent Computer Vision Technique for above applications: 
  - [Object Detection & Segmentation](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/edit/master/Object_Detection_&_Segmentation/)
