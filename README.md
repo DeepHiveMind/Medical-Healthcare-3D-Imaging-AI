@@ -1,8 +1,9 @@
 # Overview
 - [Medical Healthcare 3D Imaging AI](#Medical_Healthcare_3D_Imaging_AI)
 - [Medical Healthcare AI Application](#Medical-Healthcare-AI-Application)
-- [Sectorization Growth View](#Sectorization_Growth-View)
-- [Medical Healtcare AI Key Solution Blocks/ Factors](#Medical-Healtcare-AI-Key-Solution-Blocks)
+- [Sectorization Growth View](#Sectorization-Growth-View)
+- [Medical Healtcare AI Key Solution Blocks](#Medical-Healtcare-AI-Key-Solution-Blocks)
+- [Deep Dive into Object Detection & Segmentation](#Deep-Dive-into-Object-Detection-&-Segmentation)
 - [Real-world Medical 3D Imaging AI System Implementation Technology Debt](#Real-world-Medical-3D-Imaging-AI-System-Implementation-Technology-Debt)
 
 
@@ -34,8 +35,19 @@ Here goes the list of some of the **widely adopted Real-world AI/ML system Imple
 P.S.: Prominent Computer Vision Technique for above applications: 
  - [Object Detection & Segmentation](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/edit/master/Object_Detection_&_Segmentation/)
  
+ ## Sectorization Growth View
+**Global 3D medical imaging market growth**
+Please refer to the following link for Market-specific growth opportunities in global 3D medical imaging market
 
-## Medical Healtcare AI Key Solution Blocks/ Factors:
+- [Global 3D Medical Imaging Market 2018-25](https://www.medgadget.com/2019/07/3d-medical-imaging-market-growing-at-a-cagr-of-9-8-and-expected-to-reach-12-6-billion-by-2025-exclusive-report-by-infinium-global-research.html) 
+- [Global 3D Medical Imaging Market 2019-25](https://www.researchandmarkets.com/research/xpnd7g/worldwide_3d?w=4)
+
+Global 3D medical imaging market was valued over USD 6.5 Billion in 2018 and is projected to be worth nearly USD 12.6 Billion expanding at a CAGR of 9.8% from 2019 to 2025.
+
+## Medical Healtcare AI Key Solution Blocks:
+
+**Medical Healtcare AI Solution is composed of following Key Solution Blocks/ Factors:**
+
 - [Medical 3D Imaging Overview](https://github.com/DeepHiveMind/Medical-Healtcare-AI/blob/master/README_3D_Medical_Imaging.md)
 - [Medical 3D Imaging DEVICES](https://github.com/DeepHiveMind/Medical-Healtcare-AI/blob/master/README_3D_Medical_Imaging.md)
    - Medical 3D Imaging (hardware players) VENDORS 
@@ -49,20 +61,17 @@ P.S.: Prominent Computer Vision Technique for above applications:
 - AI/ML Model Productionaization/Industrialization (Hiddent Technical Debt in ML System)
 
  
-## Sectorization Growth View
-**Global 3D medical imaging market growth**
-Please refer to the following link for Market-specific growth opportunities in global 3D medical imaging market
 
-- [Global 3D Medical Imaging Market 2018-25](https://www.medgadget.com/2019/07/3d-medical-imaging-market-growing-at-a-cagr-of-9-8-and-expected-to-reach-12-6-billion-by-2025-exclusive-report-by-infinium-global-research.html) 
-- [Global 3D Medical Imaging Market 2019-25](https://www.researchandmarkets.com/research/xpnd7g/worldwide_3d?w=4)
-
-Global 3D medical imaging market was valued over USD 6.5 Billion in 2018 and is projected to be worth nearly USD 12.6 Billion expanding at a CAGR of 9.8% from 2019 to 2025.
+## Deep Dive into Object Detection & Segmentation
+Prominent Computer Vision Technique for above applications is **Object Detection & Segmentation Computer Vision Technique**.
+Let us deep dive into the Object Detection & Segmentation Computer Vision Technique.
+ - [Deep Dive into Object Detection & Segmentation](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/edit/master/Object_Detection_&_Segmentation/)
 
 ## Real-world Medical 3D Imaging AI System Implementation Technology Debt 
 
 **Productionization/Industralization/Implementation**
 **Only a SMALL FRACTION of REAL-WORLD ML SYSTEMs is composed of the ML CODE**
-**Hardest part of AI isn't AI, but it's Data**
+**Hardest part of AI isn't AI, but it's Data & productionization**
 **HIDDEN TECH DEBT IN ML SYSTEM- NIPS/GOOGLE 2015**
 
 <p align="center">**"Only a SMALL FRACTION of REAL-WORLD ML SYSTEMs is composed of the ML CODE"**</p> 
