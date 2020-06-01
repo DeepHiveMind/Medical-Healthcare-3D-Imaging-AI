@@ -32,8 +32,7 @@ Here goes the list of some of the **widely adopted Real-world AI/ML system Imple
  	- [Neucleus Segmentation](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/tree/master/Object_Detection_%26_Segmentation/samples/nucleus)
 	- [Multi-organ Nuclei Segmentation And Classification](http://2020.biomedicalimaging.org/challenges)
 
-P.S.: Prominent Computer Vision Technique for above applications: 
- - [Object Detection & Segmentation](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/edit/master/Object_Detection_&_Segmentation/)
+P.S.: Prominent Computer Vision Technique for above applications: Object Detection & Segmentation
  
  ## Sectorization Growth View
 **Global 3D medical imaging market growth**
