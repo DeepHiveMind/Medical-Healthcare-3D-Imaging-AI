@@ -1,13 +1,10 @@
 # Overview
 - [Medical Healthcare 3D Imaging AI](#Medical_Healthcare_3D_Imaging_AI)
-
 - [Medical Healthcare AI Application](#Medical-Healthcare-AI-Application)
 - [Sectorization Growth View](#Sectorization_Growth-View)
-
-
+- [Medical Healtcare AI Key Solution Blocks/ Factors](#Medical-Healtcare-AI-Key-Solution-Blocks)
 - [Real-world Medical 3D Imaging AI System Implementation Technology Debt](#Real-world-Medical-3D-Imaging-AI-System-Implementation-Technology-Debt)
 
-- 
 
 
 # Medical Healthcare 3D Imaging AI
