@@ -20,6 +20,11 @@ patient’s health. In particular, skin imaging is a field where these new metho
 
 ![Melanoma vs Benign image](./images/work/dataset.jpg)
 
+**Taxonomy/ Keywords** :smile: : `Medical Image Analysis`, `Deep Learning`, `Medical Decision Support Systems`,  
+`U-Net Convolutional Neural Networks`, `Transfer Learning`,`VGG-Net Convolutional Neural Networks`, `Melanoma`, `Dermoscopy`, `Skin Lesions`,
+`Skin Cancer`.
+
+
 ### "Fine-Tuned Smart" Solution Approach Abstraction:-->
 "Fine-tuned Smart Solution approach" focuses on solving the problem of automatic skin lesion detection, particularly on melanoma detection, by "
 **semantic segmentation** and followed by  **classification (powered by Transfer Learning)**" from **dermoscopic images (from ISIC)** using a deep learning based approach. 
@@ -55,9 +60,6 @@ combination of the two approaches (segmentation followed by classification) in o
  
  {ISIC : International Skin Imaging Collaboration}
 
-**Taxonomy/ Keywords**: `Medical Image Analysis`, `Deep Learning`, `Medical Decision Support Systems`,  
-`U-Net Convolutional Neural Networks`, `Transfer Learning`,`VGG-Net Convolutional Neural Networks`, `Melanoma`, `Dermoscopy`, `Skin Lesions`,
-`Skin Cancer`.
 
 
 ## Results
