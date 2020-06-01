@@ -1,7 +1,18 @@
 # Skin lesion detection from dermoscopic images using Convolutional Neural Networks
+Early Melonama Detetction
+
+## Skin Cancer |Early Melonama Detetction | Skin lesion detection 
+
+Some facts about skin cancer:
+ - Every year there are **more new cases of skin cancer** than the **combined incidence of cancers of the prostate, lung, breast and colon**. Roughly 87,110 new cases of invasive melanoma has been diagnosed in the U.S. per year.
+ 
+ - **Early Melonama detection is critical!**  
+	- The estimated 5-year survival rate for patients whose melanoma is detected early is about 98 percent in the U.S. 
+	- The survival rate falls to 62 percent when the disease reaches the lymph nodes, and 
+	- The survival rate falls to 18 percent when the disease metastasizes to distant organs.
 
 
-## Abstract 
+## Abstract (Multiple Solution Approach)
 
 The recent emergence of machine learning and deep learning methods for medical image analysis has enabled the development 
 of intelligent medical imaging-based diagnosis systems that can assist physicians in making better decisions about a 
