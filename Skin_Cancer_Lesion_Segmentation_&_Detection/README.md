@@ -25,17 +25,13 @@ patient’s health. In particular, skin imaging is a field where these new metho
 
 
 ### "Fine-Tuned Smart" Solution Approach Abstraction:-->
-"Fine-tuned Smart Solution approach" focuses on solving the problem of automatic skin lesion detection, particularly on melanoma detection, by "
+"Fine-tuned Smart Solution approach" (perfectly_segmented_classification) focuses on solving the problem of automatic skin lesion detection, particularly on melanoma detection, by "
 **semantic segmentation** and followed by  **classification (powered by Transfer Learning)**" from **dermoscopic images (from ISIC)** using a deep learning based approach. 
  - For the 1st part of the solution approach (semantic segmentation for an **accurate extraction of the lesion region**) -
   ** U-Net convolutional neural network architecture** is applied. 
  - For the 2nd part of the solution approach (Classification /binary classification of **"Benign versus Malignant Cancer"** for early melanoma detection) - 
      - The proposed solution is built around the **VGG-Net ConvNet architecture** and 
 	 - uses the **Transfer learning paradigm** (to deal with the general challenge of**Minimal Ground Truth** by avoid groud up training of Detection Model.).
-
-	 
-
-![Overall scheme](./images/work/scheme.png)
 
 P.S.  
 	- *This solution approach performs way better, optimized and offers better result. The experimental results of the segmentation evaluations demonstrate that the proposed method can outperform other state-of-the-art models.   
@@ -44,7 +40,7 @@ P.S.
 
 
 ### "Classical" Solution Approach Abstraction:-->
- - "Classical Solution approach" focuses on solving the problem of automatic skin lesion detection by straightway subjecting the entire image to **classification alone** model.
+ - "Classical Solution approach" (unaltered_classification) focuses on solving the problem of automatic skin lesion detection by straightway subjecting the entire image to **classification alone** model.
 
 ### "The Comparative View" of Smart Vis-a-Vis Classical Solution Approaches:-->
  - "ROC Curve" is drawn as well for a comparative evaluation of classification alone (using the entire image) against a 
@@ -52,7 +48,8 @@ combination of the two approaches (segmentation followed by classification) in o
  better classification results.
  - Experimental results are encouraging: on the ISIC Archive dataset, the Smart Solution approach achieves a **sensitivity** value of **78.66%**, which is significantly higher than the many of the state of the art (SOTA Models) on that dataset.
  
-
+**Overall Solution Approache Schemes**
+![Overall scheme](./images/work/scheme.png)
 
 ### Dataset:
 
@@ -103,15 +100,16 @@ ranked and awards granted based only on the Jaccard index.
 ![classification-results](./images/work/roc.png)
 
 ## The Next & The Future: What More TO BE DONE?
-
+- Improve model accuracy 
+	- with additional annotated data
+	- with Optimized Model implementation, such as [Mask RCNN](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/tree/master/Object_Detection_%26_Segmentation/mrcnn), or, [Detectron](https://github.com/DeepHiveMind/Detectron)
+- MLOPS (Enable Iterative Experimentation)
 - Create PWA using ReactJS
 - Publish IoS App (using [CoreML](https://developer.apple.com/documentation/coreml) ) & Android App (using [TensorFlow Lite](https://www.tensorflow.org/lite) )   
 	
 	- Use Core ML to integrate machine learning models into IoS app. Core ML provides a unified representation for all models. Your app uses Core ML APIs and user data to make predictions, and to train or fine-tune models, all on the user’s device.
 	- Use TensorFlow Lite to deploy machine learning models on mobile and IoT devices and also for Quantization of the model.
 	
-- Improve model with additional data
-- MLOPS (Enable Iterative Experimentation)
 
 
 ## Special Citation 
