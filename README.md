@@ -1,5 +1,6 @@
 # Overview
 [Medical Healthcare 3D Imaging AI](#Medical_Healthcare_3D_Imaging_AI)
+[Real-world Medical 3D Imaging AI System Implementation Technology Debt [Productionization/Industralization/Implementation]] (#Real-world-Medical-3D-Imaging-AI-System-Implementation-Technology-Debt [Productionization/Industralization/Implementation]
 
 # Medical Healthcare 3D Imaging AI
 Medical Healtcare Imaging AI Taxonomy :smiley: 
@@ -51,7 +52,10 @@ Please refer to the following link for Market-specific growth opportunities in g
 
 Global 3D medical imaging market was valued over USD 6.5 Billion in 2018 and is projected to be worth nearly USD 12.6 Billion expanding at a CAGR of 9.8% from 2019 to 2025.
 
-## Real-world Medical 3D Imaging AI System Implementation Technology Debt [Productionization/Industralization/Implementation]
+## Real-world Medical 3D Imaging AI System Implementation Technology Debt 
+
+**Productionization/Industralization/Implementation**
+**Only a SMALL FRACTION of REAL-WORLD ML SYSTEMs is composed of the ML CODE**
 
 <p align="center">**"Only a SMALL FRACTION of REAL-WORLD ML SYSTEMs is composed of the ML CODE"**</p> 
 <p align="center">_Courtsey Google NIPS 2015</p>
