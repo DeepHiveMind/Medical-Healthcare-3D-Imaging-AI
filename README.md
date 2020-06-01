@@ -1,6 +1,7 @@
 # Overview
 [Medical Healthcare 3D Imaging AI](#Medical_Healthcare_3D_Imaging_AI)
-[Real-world Medical 3D Imaging AI System Implementation Technology Debt [Productionization/Industralization/Implementation]] (#Real-world-Medical-3D-Imaging-AI-System-Implementation-Technology-Debt [Productionization/Industralization/Implementation]
+
+[Real-world Medical 3D Imaging AI System Implementation Technology Debt](#Real-world-Medical-3D-Imaging-AI-System-Implementation-Technology-Debt)
 
 # Medical Healthcare 3D Imaging AI
 Medical Healtcare Imaging AI Taxonomy :smiley: 
@@ -56,6 +57,8 @@ Global 3D medical imaging market was valued over USD 6.5 Billion in 2018 and is 
 
 **Productionization/Industralization/Implementation**
 **Only a SMALL FRACTION of REAL-WORLD ML SYSTEMs is composed of the ML CODE**
+**Hardest part of AI isn't AI, but it's Data**
+**HIDDEN TECH DEBT IN ML SYSTEM- NIPS/GOOGLE 2015**
 
 <p align="center">**"Only a SMALL FRACTION of REAL-WORLD ML SYSTEMs is composed of the ML CODE"**</p> 
 <p align="center">_Courtsey Google NIPS 2015</p>
