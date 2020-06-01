@@ -20,8 +20,8 @@ patient’s health. In particular, skin imaging is a field where these new metho
 
 ![Melanoma vs Benign image](./images/work/dataset.jpg)
 
-**Taxonomy/ Keywords** :smile: : `Medical Image Analysis`, `Deep Learning`, `Medical Decision Support Systems`,  
-`U-Net Convolutional Neural Networks`, `Transfer Learning`,`VGG-Net Convolutional Neural Networks`, `Melanoma`, `Dermoscopy`, `Skin Lesions`, `Skin Cancer`, `CoreML`, `TensorflowLite`, `MaskRCNN'.
+**Taxonomy/ Keywords** : `Medical Image Analysis`, `Deep Learning`, `Medical Decision Support Systems`,  
+`U-Net Convolutional Neural Networks`, `Transfer Learning`,`VGG-Net Convolutional Neural Networks`, `Melanoma`, `Dermoscopy`, `Skin Lesions`, `Skin Cancer`, `CoreML`, `TensorflowLite`, `MaskRCNN`.
 
 
 ### "Fine-Tuned Smart" Solution Approach Abstraction:-->
