@@ -16,7 +16,7 @@ Here goes the list of some of the **widely adopted Real-world AI/ML system Imple
  - **'Robotic Surgery'** (Semi-automated robotic surgery with HITL)
  - **ECG Sleep Apnea Detection**
  - **Sequential Treatment Administering** (Sequential Treatment decision using Reinforcement Learning)
- - **Microsocpy Healthcare** (Segmenting Nuclei in Microscopy Images)
+ - **Microsocpy Medical Healthcare** (Segmenting Nuclei in Microscopy Images)
 
 P.S.: Prominent Computer Vision Technique for above applications: 
  - [Object Detection & Segmentation](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/edit/master/Object_Detection_&_Segmentation/)
