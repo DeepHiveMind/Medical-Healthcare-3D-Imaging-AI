@@ -51,10 +51,12 @@ combination of the two approaches (segmentation followed by classification) in o
 **Overall Solution Approache Schemes**
 ![Overall scheme](./images/work/scheme.png)
 
-### Dataset:
+### Dataset & The Challenge:
 
+**Dataset**
  {ISIC : International Skin Imaging Collaboration}
  - [Melonama Project ISIC Archive datase](https://isic-archive.com/)
+ 
 
 The datasets (carrying Both malignant and benign lesions) to use are:
  - ISIC_UDA-2_1
@@ -67,6 +69,13 @@ The datasets (carrying Both malignant and benign lesions) to use are:
 | :--: |:--: |
 |1208 | 849|
 
+**The Challneges**
+ The Challenge:
+ - [ISBI 2016 Challenge](https://challenge.kitware.com/#challenge/560d7856cad3a57cfde481ba)
+ - [ISBI 2018 Challenge](https://challenge.kitware.com/#phase/5abcb19a56357d0139260e53)
+
+{ISBI: The International Symposium on Biomedical Imaging}
+
 ## Results
 
 ### Training the U-Net for Skin Lesion Segmentation
@@ -78,10 +87,11 @@ The datasets (carrying Both malignant and benign lesions) to use are:
 | Lequan Yu       | 2nd   | 0.949    | 0.897  | 0.829      | 0.911       | 0.957       |
 
 
-(*) Participants from the [ISBI 2016 Challenge](https://challenge.kitware.com/#challenge/560d7856cad3a57cfde481ba) were 
+(*) Metrics - 
+Participants from the [ISBI 2016 Challenge](https://challenge.kitware.com/#challenge/560d7856cad3a57cfde481ba) were 
 ranked and awards granted based only on the Jaccard index. 
 
-{ISBI: The International Symposium on Biomedical Imaging}
+
 
 ### U-Net segmentation results
 
