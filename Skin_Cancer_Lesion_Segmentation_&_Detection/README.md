@@ -76,6 +76,10 @@ The datasets (carrying Both malignant and benign lesions) to use are:
 
 {ISBI: The International Symposium on Biomedical Imaging}
 
+NOTE:
+- *ISBI 2016 challenge provides training data (~900 images) for participants to engage in all 3 components of lesion image analysis. A separate test dataset (~350 images) will be provided for participants to generate and submit automated results.*
+- * ISBI 2018 - ISIC Archive 2018 -contains over 13,000 dermoscopic images.
+
 ## Results
 
 ### Training the U-Net for Skin Lesion Segmentation
@@ -89,7 +93,7 @@ The datasets (carrying Both malignant and benign lesions) to use are:
 
 (*) Metrics - 
 Participants from the [ISBI 2016 Challenge](https://challenge.kitware.com/#challenge/560d7856cad3a57cfde481ba) were 
-ranked and awards granted based only on the Jaccard index. 
+ranked and awards granted based only on the **Jaccard index**. 
 
 
 
