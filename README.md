@@ -68,9 +68,12 @@ Let us deep dive into the Object Detection & Segmentation Computer Vision Techni
 
 ## Real-world Medical 3D Imaging AI System Implementation Technology Debt 
 
-**Productionization/Industralization/Implementation**
+**Productionization/Industralization Machine Learning Systems**
+
 **Only a SMALL FRACTION of REAL-WORLD ML SYSTEMs is composed of the ML CODE**
+
 **Hardest part of AI isn't AI, but it's Data & productionization**
+
 **HIDDEN TECH DEBT IN ML SYSTEM- NIPS/GOOGLE 2015**
 
 <p align="center">**"Only a SMALL FRACTION of REAL-WORLD ML SYSTEMs is composed of the ML CODE"**</p> 
