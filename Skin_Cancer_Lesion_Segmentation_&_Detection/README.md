@@ -132,4 +132,20 @@ ranked and awards granted based only on the **Jaccard index**.
 - [ISBI 2016 Challenge](https://challenge.kitware.com/#challenge/560d7856cad3a57cfde481ba)
 - [ISIC Archive datase](https://isic-archive.com/) 
 
+#### How to Downlaod Dataset from 
+- [ISIC Archive Downloader](https://github.com/DeepHiveMind/ISIC-Archive-Downloader)
+
+- Fast forward to recent times: The ISIC Archive contains over 23k images of skin lesions, labeled as 'benign' or 'malignant'.
+The archive can be found here: https://www.isic-archive.com/#!/onlyHeaderTop/gallery
+
+-- https://www.isic-archive.com/#!/onlyHeaderTop/gallery
+
+-- This script gives "Comfortable alternative script approach" to the current ways to download the archive, provided by the ISIC foundation and which are known to me, are the following:
+1. Download the entire archive via the direct download button on their website.
+2. Download all the partitions of the archive, called 'datasets' one by one
+3. Downloading the images one by one via the Grider API provided in the site
+
+Generally options above are laborious or at times do not work, [ISIC Archive Downloader](https://github.com/DeepHiveMind/ISIC-Archive-Downloader) script provides a comfortable alternative.  
+- This script can download the entire ISIC archive ([or parts of it](#optional-download-abilities))  
+- All you have to do is run `python download_archive.py`
 
