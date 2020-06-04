@@ -2,7 +2,7 @@ function [ ] = sort_dataset( mode )
 % Input 'mode' can be either 'train' (to sort train images) or 'test' (to sort
 % test images)
 % Inizialization
-main_dir = '/Users/AdriaRomeroLopez/Desktop/matlab_create_segemented_img';
+main_dir = '/Users/DeepHiveMind/Desktop/matlab_create_segemented_img';
 
 %% Original Images path
 img_path = strcat(main_dir,'/',mode);
