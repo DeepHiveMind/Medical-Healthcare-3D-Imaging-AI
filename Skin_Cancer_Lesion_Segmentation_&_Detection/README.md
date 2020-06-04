@@ -146,6 +146,6 @@ The archive can be found here: https://www.isic-archive.com/#!/onlyHeaderTop/gal
 3. Downloading the images one by one via the Grider API provided in the site
 
 Generally options above are laborious or at times do not work, [ISIC Archive Downloader script](https://github.com/DeepHiveMind/ISIC-Archive-Downloader) script provides a comfortable alternative.  
-- This script can download the entire ISIC archive ([or parts of it](#optional-download-abilities))  
+- This script can download the entire ISIC archive ([or parts of it/optional-download-abilities](https://github.com/DeepHiveMind/ISIC-Archive-Downloader/blob/master/README.md))  
 - All you have to do is run `python download_archive.py`
 
