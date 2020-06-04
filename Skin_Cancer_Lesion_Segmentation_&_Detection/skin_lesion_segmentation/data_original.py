@@ -5,7 +5,7 @@ import skimage
 from skimage import data, draw
 from skimage import transform, util
 
-data_path = '/imatge/aromero/work/image-segmentation/skin-dataset'
+data_path = '/imatge/deephivemind/work/image-segmentation/skin-dataset'
 
 image_rows = 420
 image_cols = 580
