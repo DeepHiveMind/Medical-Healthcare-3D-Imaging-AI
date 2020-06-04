@@ -5,7 +5,7 @@ import skimage
 from skimage import data, draw
 from skimage import transform, util
 import cv2
-data_path = '/imatge/aromero/work/image-segmentation/isbi-segmentation-dataset'
+data_path = '/imatge/deephivemind/work/image-segmentation/isbi-segmentation-dataset'
 
 image_rows = 420
 image_cols = 580
