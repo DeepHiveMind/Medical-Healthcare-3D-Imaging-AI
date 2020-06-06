@@ -19,8 +19,8 @@ Robotic Surgery | Automated Brain Tumour Segmentation | Skin Cancer Lesion Detec
 
 Here goes the list of some of the **widely adopted Real-world AI/ML system Implementations** in Medical field
  - **Radiology** 
-	- [Automated Brain Tumour Segmentation](/Automated_Brain_Tumour_Segmentation)
 	- [Skin Cancer Lesion Detection & Segmentation (Melonama Recognition)](/Skin_Cancer_Lesion_Segmentation_%26_Detection)
+	- [Automated Brain Tumour Segmentation](/Automated_Brain_Tumour_Segmentation)
 	- Lung Cancer
 	- Colon Cancer
  - **Robotic Surgery** 
@@ -32,7 +32,11 @@ Here goes the list of some of the **widely adopted Real-world AI/ML system Imple
  	- [Neucleus Segmentation](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/tree/master/Object_Detection_%26_Segmentation/samples/nucleus)
 	- [Multi-organ Nuclei Segmentation And Classification](http://2020.biomedicalimaging.org/challenges)
 
-P.S.: Prominent Computer Vision Technique for above applications: Object Detection & Segmentation
+P.S.: 
+ - Interesting titbit: **AI is better than many dermatologists at diagnosing skin cancer.**  In a study published in the leading cancer journal  - **Annals of Oncology** 
+ 	- Dermatologists were **only 86.6% accurate** at diagnosing skin cancer, 
+	- while the computer was able to diagnose issues with a **95% accuracy**. It was also quoted in **Fortune magazine published in Y2018**. 
+ - Prominent Computer Vision Technique for above applications: [Object Detection & Segmentation](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/edit/master/Object_Detection_&_Segmentation/)
  
  ## Sectorization Growth View
 **Global 3D medical imaging market growth**
@@ -68,24 +72,28 @@ Let us deep dive into the Object Detection & Segmentation Computer Vision Techni
 
 ## Real-world Medical 3D Imaging AI System Implementation Technology Debt 
 
-**Productionization/Industralization Machine Learning Systems**
+<p align="center"> # HIDDEN TECH DEBT IN ML SYSTEM- NIPS/GOOGLE 2015</p> 
 
-**Only a SMALL FRACTION of REAL-WORLD ML SYSTEMs is composed of the ML CODE**
+<p align="center"> # Only a SMALL FRACTION of REAL-WORLD ML SYSTEMs is composed of the ML CODE</p> 
 
-**Hardest part of AI isn't AI, but it's Data & productionization**
-
-**HIDDEN TECH DEBT IN ML SYSTEM- NIPS/GOOGLE 2015**
-
-<p align="center">**"Only a SMALL FRACTION of REAL-WORLD ML SYSTEMs is composed of the ML CODE"**</p> 
-<p align="center">_Courtsey Google NIPS 2015</p>
+_Courtsey Google NIPS 2015
 
 <p align="center">
 <img alt="Google NIPS 2015" src="https://image.slidesharecdn.com/4brookewenigjulesdamji-180612221342/95/a-tale-of-three-deep-learning-frameworks-tensorflow-keras-and-deep-learning-pipelines-with-brooke-wenig-and-jules-damji-5-638.jpg?cb=1528841699">
 </p>
 
-Reference: [HIDDEN TECH DEBT IN ML SYSTEM- NIPS/GOOGLE 2015](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)
+<p align="center">[HIDDEN TECH DEBT IN ML SYSTEM- NIPS/GOOGLE 2015](https://papers.nips.cc/paper/5656-hidden-technical-debt-in-machine-learning-systems.pdf)</p>  
 
-- AI/ML Model Productionaization/Industrialization (Hiddent Technical Debt in ML System)
+
+<p align="center"> # Hardest part of AI isn't AI, but it's Data & productionization</p> 
+
+<p align="center"> # Productionization/Industralization Machine Learning Systems</p> 
+    
+**MLOPS IS THE SILVER BULLET!**
+
+Please refer to [Enterprise AI MLOPS](https://github.com/DeepHiveMind/EnterpriseAI_Platform_MLOps) for deeper recepi in MLOPS.
+
+#### AI/ML Model Productionaization/Industrialization (Hiddent Technical Debt in ML System)
 	- MLOps - Iterative Experimentation (Kubeflow)
 	- Model Enrichment
 		- Transfer Learning & HPO
