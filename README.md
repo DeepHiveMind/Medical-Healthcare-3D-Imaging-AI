@@ -106,16 +106,16 @@ Please refer to [Enterprise AI MLOPS](https://github.com/DeepHiveMind/Enterprise
 	- Service Mesh (Istio)
 	- Containerization (Docker) & CaaS (K8S)	- 
 - AI Inference Service Routing 
-		- Canary Deployment 
-		- Blue Green Deployment
-		- Multi Armed Bandit Deployment
-		- A/B
+	- Canary Deployment 
+	- Blue Green Deployment
+	- Multi Armed Bandit Deployment
+	- A/B
 - AI Trust
-		- Feature Bank (Feature Set)
-		- Model Interpertability (LIME, DeepShap)
+	- Feature Bank (Feature Set)
+	- Model Interpertability (LIME, DeepShap)
 - AI Continous Monitoring System (AWS Sagemaker Monitor)
-		- Data Drift
-		- Concept Drift
+	- Data Drift
+	- Concept Drift
 - Serverless (KNative, OpenFaaS/ Apache OpenWhisk)
 - Edge Deployment, such as on Mobile (TFX - TensorRT, TFLite | EdgeX)
 - Hybrid Processing (Local Edge Processing + Centralized Cloud Processing)
