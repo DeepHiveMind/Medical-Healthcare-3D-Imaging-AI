@@ -94,8 +94,9 @@ _Courtsey Google NIPS 2015
 Please refer to [Enterprise AI MLOPS](https://github.com/DeepHiveMind/EnterpriseAI_Platform_MLOps) for deeper recepi in MLOPS.
 
 #### AI/ML Model Productionaization/Industrialization (Hiddent Technical Debt in ML System)
-	- MLOps - Iterative Experimentation (Kubeflow)
-	- Model Enrichment
+	
+- MLOps - Iterative Experimentation (Kubeflow)
+- Model Enrichment
 		- Transfer Learning & HPO
 		- AutoML (AutoKeras) 
 - Scalable & Secured "AI-as-a-Service" 
@@ -109,13 +110,13 @@ Please refer to [Enterprise AI MLOPS](https://github.com/DeepHiveMind/Enterprise
 		- Blue Green Deployment
 		- Multi Armed Bandit Deployment
 		- A/B
-	- AI Trust
+- AI Trust
 		- Feature Bank (Feature Set)
 		- Model Interpertability (LIME, DeepShap)
-	- AI Continous Monitoring System (AWS Sagemaker Monitor)
+- AI Continous Monitoring System (AWS Sagemaker Monitor)
 		- Data Drift
 		- Concept Drift
-	- Serverless (KNative, OpenFaaS/ Apache OpenWhisk)
-	- Edge Deployment, such as on Mobile (TFX - TensorRT, TFLite | EdgeX)
-	- Hybrid Processing (Local Edge Processing + Centralized Cloud Processing)
-	- Mobile & Web App (PWA)
+- Serverless (KNative, OpenFaaS/ Apache OpenWhisk)
+- Edge Deployment, such as on Mobile (TFX - TensorRT, TFLite | EdgeX)
+- Hybrid Processing (Local Edge Processing + Centralized Cloud Processing)
+- Mobile & Web App (PWA)
