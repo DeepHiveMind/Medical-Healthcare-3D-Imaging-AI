@@ -116,8 +116,7 @@ ranked and awards granted based only on the **Jaccard index**.
 ## The Next & The Future: What More TO BE DONE?
 - Improve model accuracy 
 	- with additional annotated data
-	- with Optimized Model implementation, such as [**Mask RCNN**](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/tree/master/Object_Detection_%26_Segmentation/mrcnn), or, [**Detectron**](https://github.com/DeepHiveMind/Detectron), or, [**Detectron2**](https://github.com/facebookresearch/detectron2), or, [**DETER**]()
-	-• {Model – DETR Model |DEtection TRansformer (DETER) model | A Transformer based Object Detection Approach. } 
+	- with Optimized Model implementation, such as [**Mask RCNN**](https://github.com/DeepHiveMind/gateway_to_DeepReinforcementLearning_DeepNN/tree/master/Object_Detection_%26_Segmentation/mrcnn), or, [**Detectron**](https://github.com/DeepHiveMind/Detectron), or, [**Detectron2**](https://github.com/facebookresearch/detectron2), or, [**DETER**]() {DETR Model - DEtection TRansformer- A **Transformer** based Object Detection Approach}. 
 		- An Evolution journey of RCNN Family: Faster RCNN(Y’2015) ---> Mask RCNN (Y’2017) / YOLOV2 (Y’2017)-> Detctron (Y’2018) -> Detectron2(Y’2019) -> DETER model(Y’2020)
 
 - MLOPS (Enable Iterative Experimentation)
